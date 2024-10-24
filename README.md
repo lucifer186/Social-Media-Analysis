@@ -34,6 +34,14 @@ Tables:
 6. Tags: Tag names used to categorize content.
 7. Photo_Tags: Junction table to map tags to photos.
 
+   ![image](https://github.com/user-attachments/assets/99078d1a-54ae-4937-b808-eaa7767966a1)
+
+
+## Components
+ER Diagram
+Schema
+DataBase Table
+
 ## Data Analysis
 The analysis is structured around:
 1. User Engagement: Which users and content generate the most interaction.
