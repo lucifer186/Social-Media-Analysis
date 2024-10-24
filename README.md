@@ -38,9 +38,9 @@ Tables:
 
 
 ## Components
-ER Diagram
-Schema
-DataBase Table
+1. ER Diagram
+2. Schema
+3. DataBase Table
 
 ## Data Analysis
 The analysis is structured around:
